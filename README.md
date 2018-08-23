@@ -1,1 +1,1 @@
-"# Poll-Yes-No" 
+# Poll-Yes-No
